@@ -18,7 +18,7 @@ Once installed, you can import the library into your Go code by using the import
 package main
 
 import (
-	"github.com/vineboneto/time-elapsed"
+	timeelapsed "github.com/vineboneto/time-elapsed"
 	"time"
 )
 
