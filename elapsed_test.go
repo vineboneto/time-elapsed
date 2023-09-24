@@ -1,4 +1,4 @@
-package elapsed
+package timeelapsed
 
 import (
 	"testing"

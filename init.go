@@ -3,7 +3,7 @@
  * File: init.go
  */
 
-package elapsed
+package timeelapsed
 
 import (
 	"fmt"

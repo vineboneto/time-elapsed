@@ -3,7 +3,7 @@
  * File: elapsed.go
  */
 
-package elapsed
+package timeelapsed
 
 import (
 	"log"

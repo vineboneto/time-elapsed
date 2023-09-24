@@ -23,7 +23,7 @@ import (
 )
 
 func main() {
-	elapsed := elapsed.TimeElapsed{}
+	elapsed := timeelapsed.TimeElapsed{}
 
 	elapsed.Start()
 
