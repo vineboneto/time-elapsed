@@ -1,4 +1,4 @@
-package lib
+package elapsed
 
 import (
 	"testing"

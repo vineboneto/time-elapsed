@@ -3,7 +3,7 @@
  * File: elapsed.go
  */
 
-package lib
+package elapsed
 
 import (
 	"log"
